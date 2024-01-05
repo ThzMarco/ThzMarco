@@ -12,6 +12,7 @@
 )](https://discord.gg/8cvxZnmQTH)
 
 
+
 ![ThzMarco GitHub stats](https://github-readme-stats.vercel.app/api?username=ThzMarco&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThzMarco&hide_progress=true)
 
@@ -26,4 +27,4 @@
     <img align="center" alt="macOS" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="macOS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <div/> <br/>
 
-    Apaixonado por tecnologia, agora se aventurando no mundo de Dev IOS.
+    Apaixonado por tecnologia, agora se aventurando no mundo de automação de testes.
